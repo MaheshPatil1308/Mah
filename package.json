@@ -1,0 +1,22 @@
+{
+  "name": "mah",
+  "version": "1.0.0",
+  "description": "This is my repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaheshPatil1308/Mah.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaheshPatil1308/Mah/issues"
+  },
+  "homepage": "https://github.com/MaheshPatil1308/Mah#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
